@@ -2,7 +2,7 @@
 let numeroMaximoPosible = 100;
 let numeroSecreto = Math.floor(Math.random()*numeroMaximoPosible)+1;
 let numeroUsuario = 0;
-let intentos = 1;
+let intentos = 1;  
 //let palabraVeces = 'vez';
 let maximosIntentos = 6;
 
